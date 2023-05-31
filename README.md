@@ -22,7 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The project is bulid with the help of HTML CSS BOOTSTRAP 
+The project is bulid with the help of HTML CSS BOOTSTRAP <br/>
 BE SURE TO CHECK THE RESPONSIVE-NESS OF THE WEBSITE AND HOVER OVER EACH COMPONENT
 <br /><br />
 
