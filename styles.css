@@ -66,6 +66,12 @@ nav ul li a:hover {
 
   width: 100%;
 }
+.has_cards >  .cds{
+  transition: filter 0.25s linear ;
+}
+.has_cards:hover > .cds:not(:hover) {
+  filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+}
 
 .say_no h1 {
   font-size: 50px;
